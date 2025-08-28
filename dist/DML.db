@@ -1,0 +1,5 @@
+INSERT INTO categorias (nome) VALUES 
+('comida'),
+('construcao'),
+('farmacia'),
+('mercado');
